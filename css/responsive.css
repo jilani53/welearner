@@ -1,0 +1,57 @@
+/* 
+  ##Device = Desktops
+  ##Screen = 1281px to higher resolution desktops
+*/
+
+@media (max-width: 1399px) {
+  
+	.main-banner .overlay-text {
+		width: 1144px
+	}
+}
+
+@media (max-width: 1199px) {
+  
+	.main-banner .overlay-text {
+		width: 965px
+	}
+}
+
+@media (max-width: 991px) {
+  
+	.main-banner .overlay-text {
+		width: 725px
+	}
+	.main-menu {
+		padding: 15px;
+		margin-bottom: -48px;
+	}
+	.main-menu .navbar-nav .nav-link {
+		padding-left: 0;
+	}
+	.single-post {
+		margin-bottom: 30px
+	}
+	.footer-link h3.title {
+		margin-bottom: 15px;
+		margin-top: 50px;
+	}
+
+}
+
+@media (max-width: 768px) {
+  
+	.main-banner .overlay-text {
+		width: 515px
+	}
+	.single-logo {
+		width: 20%;
+		margin-bottom: 20px;
+	}
+}
+@media (max-width: 540px) {
+  
+	.main-banner .overlay-text {
+		width: 90%
+	}  
+}
