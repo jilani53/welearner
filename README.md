@@ -8,8 +8,6 @@ Course management widget base WordPress theme.
 Installation
 ---------------
 
-### Requirements
-
 Please check video tutorial - https://youtu.be/D0dmdFK7vsI
 
 I'm very sorry for the noisy background sound &#x1F614;
@@ -17,4 +15,5 @@ I'm very sorry for the noisy background sound &#x1F614;
 ### Credit
 
 https://getbootstrap.com/
+
 https://kenwheeler.github.io/slick/
